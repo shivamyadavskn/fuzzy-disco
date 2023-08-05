@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(136deg, #2E335A 0%, #1C1B33 100%);
+}
+
+
+.container div>div {
+    color: white;
+    margin-top: 10px;
+}
+
+
+#card {
+    border: 2px solid black;
+    background: linear-gradient(#5936B4, #362A84);
+}
+
+
+#imgid {
+    margin-left: 250px;
+}
+
+.temptext {
+    margin-bottom: 70px;
+}
+
+h1 {
+    padding-top: 45px;
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    background: rgba(75, 38, 185, 0.7);
+    color: white;    
+}
+
+.navbar {
+    margin-top: 47px;
+    margin-left: 42%;
+}
+
+.form-control{
+    color: white;
+}
